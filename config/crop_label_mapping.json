@@ -1,0 +1,79 @@
+{
+  "version": "1.1",
+  "description": "Canonical mapping between 10 supported classifier labels and regressor CropNames",
+  "supported_crops_count": 10,
+  "mappings": [
+    {
+      "classifier_label": "banana",
+      "regressor_CropName": "Banana",
+      "found": true,
+      "match_type": "exact"
+    },
+    {
+      "classifier_label": "blackgram",
+      "regressor_CropName": "Black Gram",
+      "found": true,
+      "match_type": "synonym (blackgram -> Black Gram)"
+    },
+    {
+      "classifier_label": "chickpea",
+      "regressor_CropName": "Chickpeas",
+      "found": true,
+      "match_type": "synonym (chickpea -> Chickpeas)"
+    },
+    {
+      "classifier_label": "cotton",
+      "regressor_CropName": "Cotton",
+      "found": true,
+      "match_type": "exact"
+    },
+    {
+      "classifier_label": "jute",
+      "regressor_CropName": "Jute",
+      "found": true,
+      "match_type": "exact"
+    },
+    {
+      "classifier_label": "lentil",
+      "regressor_CropName": "Lentils",
+      "found": true,
+      "match_type": "synonym (lentil -> Lentils)"
+    },
+    {
+      "classifier_label": "maize",
+      "regressor_CropName": "Maize",
+      "found": true,
+      "match_type": "exact"
+    },
+    {
+      "classifier_label": "mungbean",
+      "regressor_CropName": "Mung Bean",
+      "found": true,
+      "match_type": "synonym (mungbean -> Mung Bean)"
+    },
+    {
+      "classifier_label": "pigeonpeas",
+      "regressor_CropName": "Pigeon Pea",
+      "found": true,
+      "match_type": "synonym (pigeonpeas -> Pigeon Pea)"
+    },
+    {
+      "classifier_label": "rice",
+      "regressor_CropName": "Rice",
+      "found": true,
+      "match_type": "exact"
+    }
+  ],
+  "deferred_v2_crops": [
+    {
+      "classifier_label": "coconut",
+      "status": "deferred_to_v2",
+      "reason": "Yield regressor dataset lacks training data for this crop. Cut from v1 classifier to prevent unsupported recommendations."
+    },
+    {
+      "classifier_label": "mothbeans",
+      "status": "deferred_to_v2",
+      "reason": "Yield regressor dataset lacks training data for this crop. Cut from v1 classifier to prevent unsupported recommendations."
+    }
+  ]
+}

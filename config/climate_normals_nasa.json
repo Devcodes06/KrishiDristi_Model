@@ -1,0 +1,1382 @@
+{
+  " Bardhaman": {
+    "district": " Bardhaman",
+    "clean_name": "Bardhaman",
+    "coordinates": {
+      "lat": 23.2324,
+      "lon": 87.8615
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.73,
+      "annual_humidity": 71.85,
+      "annual_rainfall_mm": 1459.37,
+      "annual_rainfall_std": 217.06,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.13,
+        "humidity": 85.22,
+        "seasonal_rainfall_mm": 1181.45,
+        "seasonal_rainfall_std": 211.95,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.89,
+        "humidity": 63.79,
+        "seasonal_rainfall_mm": 84.43,
+        "seasonal_rainfall_std": 49.83,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.23,
+        "humidity": 61.18,
+        "seasonal_rainfall_mm": 443.48,
+        "seasonal_rainfall_std": 119.49,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.0,
+        "humidity": 83.62,
+        "seasonal_rainfall_mm": 379.68,
+        "seasonal_rainfall_std": 105.15,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.62,
+        "humidity": 63.72,
+        "seasonal_rainfall_mm": 38.0,
+        "seasonal_rainfall_std": 30.06,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.73,
+        "humidity": 71.85,
+        "seasonal_rainfall_mm": 1459.37,
+        "seasonal_rainfall_std": 217.06,
+        "n_years": 20
+      }
+    }
+  },
+  "Alipurduar": {
+    "district": "Alipurduar",
+    "clean_name": "Alipurduar",
+    "coordinates": {
+      "lat": 26.4919,
+      "lon": 89.5271
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 24.28,
+      "annual_humidity": 69.21,
+      "annual_rainfall_mm": 2066.63,
+      "annual_rainfall_std": 509.46,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 27.27,
+        "humidity": 84.48,
+        "seasonal_rainfall_mm": 1658.25,
+        "seasonal_rainfall_std": 384.0,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 19.67,
+        "humidity": 58.85,
+        "seasonal_rainfall_mm": 62.03,
+        "seasonal_rainfall_std": 32.68,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 27.46,
+        "humidity": 58.77,
+        "seasonal_rainfall_mm": 731.48,
+        "seasonal_rainfall_std": 243.94,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.14,
+        "humidity": 80.67,
+        "seasonal_rainfall_mm": 474.24,
+        "seasonal_rainfall_std": 141.87,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 17.69,
+        "humidity": 59.61,
+        "seasonal_rainfall_mm": 20.55,
+        "seasonal_rainfall_std": 13.32,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 24.28,
+        "humidity": 69.21,
+        "seasonal_rainfall_mm": 2066.63,
+        "seasonal_rainfall_std": 509.46,
+        "n_years": 20
+      }
+    }
+  },
+  "Bankura": {
+    "district": "Bankura",
+    "clean_name": "Bankura",
+    "coordinates": {
+      "lat": 23.2324,
+      "lon": 87.0715
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.3,
+      "annual_humidity": 69.97,
+      "annual_rainfall_mm": 1453.47,
+      "annual_rainfall_std": 263.31,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 27.87,
+        "humidity": 82.78,
+        "seasonal_rainfall_mm": 1206.44,
+        "seasonal_rainfall_std": 251.35,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.16,
+        "humidity": 63.97,
+        "seasonal_rainfall_mm": 74.93,
+        "seasonal_rainfall_std": 37.81,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.05,
+        "humidity": 56.9,
+        "seasonal_rainfall_mm": 421.83,
+        "seasonal_rainfall_std": 143.16,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.41,
+        "humidity": 81.83,
+        "seasonal_rainfall_mm": 362.84,
+        "seasonal_rainfall_std": 108.86,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 17.94,
+        "humidity": 64.87,
+        "seasonal_rainfall_mm": 38.48,
+        "seasonal_rainfall_std": 25.66,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.3,
+        "humidity": 69.97,
+        "seasonal_rainfall_mm": 1453.47,
+        "seasonal_rainfall_std": 263.31,
+        "n_years": 20
+      }
+    }
+  },
+  "Birbhum": {
+    "district": "Birbhum",
+    "clean_name": "Birbhum",
+    "coordinates": {
+      "lat": 23.9054,
+      "lon": 87.5246
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.53,
+      "annual_humidity": 66.82,
+      "annual_rainfall_mm": 1303.74,
+      "annual_rainfall_std": 198.16,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.14,
+        "humidity": 82.57,
+        "seasonal_rainfall_mm": 1074.15,
+        "seasonal_rainfall_std": 186.45,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.39,
+        "humidity": 58.0,
+        "seasonal_rainfall_mm": 56.5,
+        "seasonal_rainfall_std": 27.93,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.35,
+        "humidity": 52.41,
+        "seasonal_rainfall_mm": 395.5,
+        "seasonal_rainfall_std": 123.41,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.56,
+        "humidity": 81.41,
+        "seasonal_rainfall_mm": 338.42,
+        "seasonal_rainfall_std": 79.4,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.09,
+        "humidity": 58.72,
+        "seasonal_rainfall_mm": 26.81,
+        "seasonal_rainfall_std": 17.02,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.53,
+        "humidity": 66.82,
+        "seasonal_rainfall_mm": 1303.74,
+        "seasonal_rainfall_std": 198.16,
+        "n_years": 20
+      }
+    }
+  },
+  "Cooch Behar": {
+    "district": "Cooch Behar",
+    "clean_name": "Cooch Behar",
+    "coordinates": {
+      "lat": 26.3239,
+      "lon": 89.451
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 24.28,
+      "annual_humidity": 69.21,
+      "annual_rainfall_mm": 2066.63,
+      "annual_rainfall_std": 509.46,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 27.27,
+        "humidity": 84.48,
+        "seasonal_rainfall_mm": 1658.25,
+        "seasonal_rainfall_std": 384.0,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 19.67,
+        "humidity": 58.85,
+        "seasonal_rainfall_mm": 62.03,
+        "seasonal_rainfall_std": 32.68,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 27.46,
+        "humidity": 58.77,
+        "seasonal_rainfall_mm": 731.48,
+        "seasonal_rainfall_std": 243.94,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.14,
+        "humidity": 80.67,
+        "seasonal_rainfall_mm": 474.24,
+        "seasonal_rainfall_std": 141.87,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 17.69,
+        "humidity": 59.61,
+        "seasonal_rainfall_mm": 20.55,
+        "seasonal_rainfall_std": 13.32,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 24.28,
+        "humidity": 69.21,
+        "seasonal_rainfall_mm": 2066.63,
+        "seasonal_rainfall_std": 509.46,
+        "n_years": 20
+      }
+    }
+  },
+  "Dakshin Dinajpur": {
+    "district": "Dakshin Dinajpur",
+    "clean_name": "Dakshin Dinajpur",
+    "coordinates": {
+      "lat": 25.2215,
+      "lon": 88.767
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.41,
+      "annual_humidity": 69.46,
+      "annual_rainfall_mm": 1457.52,
+      "annual_rainfall_std": 311.34,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.29,
+        "humidity": 84.11,
+        "seasonal_rainfall_mm": 1158.29,
+        "seasonal_rainfall_std": 249.33,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.34,
+        "humidity": 60.64,
+        "seasonal_rainfall_mm": 51.75,
+        "seasonal_rainfall_std": 24.03,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 29.63,
+        "humidity": 56.58,
+        "seasonal_rainfall_mm": 509.57,
+        "seasonal_rainfall_std": 158.52,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.88,
+        "humidity": 82.99,
+        "seasonal_rainfall_mm": 379.23,
+        "seasonal_rainfall_std": 124.11,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.02,
+        "humidity": 61.76,
+        "seasonal_rainfall_mm": 21.76,
+        "seasonal_rainfall_std": 10.96,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.41,
+        "humidity": 69.46,
+        "seasonal_rainfall_mm": 1457.52,
+        "seasonal_rainfall_std": 311.34,
+        "n_years": 20
+      }
+    }
+  },
+  "Darjeeling": {
+    "district": "Darjeeling",
+    "clean_name": "Darjeeling",
+    "coordinates": {
+      "lat": 27.041,
+      "lon": 88.2663
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 18.4,
+      "annual_humidity": 66.95,
+      "annual_rainfall_mm": 1544.86,
+      "annual_rainfall_std": 419.64,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 21.57,
+        "humidity": 85.46,
+        "seasonal_rainfall_mm": 1282.2,
+        "seasonal_rainfall_std": 340.02,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 14.01,
+        "humidity": 52.65,
+        "seasonal_rainfall_mm": 55.38,
+        "seasonal_rainfall_std": 47.91,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 20.9,
+        "humidity": 58.07,
+        "seasonal_rainfall_mm": 472.05,
+        "seasonal_rainfall_std": 160.77,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 18.45,
+        "humidity": 79.33,
+        "seasonal_rainfall_mm": 316.05,
+        "seasonal_rainfall_std": 109.05,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 12.38,
+        "humidity": 51.32,
+        "seasonal_rainfall_mm": 20.98,
+        "seasonal_rainfall_std": 19.08,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 18.4,
+        "humidity": 66.95,
+        "seasonal_rainfall_mm": 1544.86,
+        "seasonal_rainfall_std": 419.64,
+        "n_years": 20
+      }
+    }
+  },
+  "Hooghly": {
+    "district": "Hooghly",
+    "clean_name": "Hooghly",
+    "coordinates": {
+      "lat": 22.903,
+      "lon": 88.3968
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.73,
+      "annual_humidity": 71.85,
+      "annual_rainfall_mm": 1459.37,
+      "annual_rainfall_std": 217.06,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.13,
+        "humidity": 85.22,
+        "seasonal_rainfall_mm": 1181.45,
+        "seasonal_rainfall_std": 211.95,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.89,
+        "humidity": 63.79,
+        "seasonal_rainfall_mm": 84.43,
+        "seasonal_rainfall_std": 49.83,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.23,
+        "humidity": 61.18,
+        "seasonal_rainfall_mm": 443.48,
+        "seasonal_rainfall_std": 119.49,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.0,
+        "humidity": 83.62,
+        "seasonal_rainfall_mm": 379.68,
+        "seasonal_rainfall_std": 105.15,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.62,
+        "humidity": 63.72,
+        "seasonal_rainfall_mm": 38.0,
+        "seasonal_rainfall_std": 30.06,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.73,
+        "humidity": 71.85,
+        "seasonal_rainfall_mm": 1459.37,
+        "seasonal_rainfall_std": 217.06,
+        "n_years": 20
+      }
+    }
+  },
+  "Howrah": {
+    "district": "Howrah",
+    "clean_name": "Howrah",
+    "coordinates": {
+      "lat": 22.5958,
+      "lon": 88.2636
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.8,
+      "annual_humidity": 73.84,
+      "annual_rainfall_mm": 1565.36,
+      "annual_rainfall_std": 203.12,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.11,
+        "humidity": 85.87,
+        "seasonal_rainfall_mm": 1276.33,
+        "seasonal_rainfall_std": 205.87,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 21.27,
+        "humidity": 65.88,
+        "seasonal_rainfall_mm": 94.9,
+        "seasonal_rainfall_std": 64.9,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.0,
+        "humidity": 65.68,
+        "seasonal_rainfall_mm": 455.3,
+        "seasonal_rainfall_std": 117.37,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.2,
+        "humidity": 83.64,
+        "seasonal_rainfall_mm": 426.88,
+        "seasonal_rainfall_std": 122.04,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 19.03,
+        "humidity": 65.48,
+        "seasonal_rainfall_mm": 41.94,
+        "seasonal_rainfall_std": 34.94,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.8,
+        "humidity": 73.84,
+        "seasonal_rainfall_mm": 1565.36,
+        "seasonal_rainfall_std": 203.12,
+        "n_years": 20
+      }
+    }
+  },
+  "Jalpaiguri": {
+    "district": "Jalpaiguri",
+    "clean_name": "Jalpaiguri",
+    "coordinates": {
+      "lat": 26.5414,
+      "lon": 88.7196
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 24.86,
+      "annual_humidity": 66.25,
+      "annual_rainfall_mm": 2047.99,
+      "annual_rainfall_std": 570.85,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 27.62,
+        "humidity": 83.96,
+        "seasonal_rainfall_mm": 1697.41,
+        "seasonal_rainfall_std": 451.66,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.3,
+        "humidity": 54.33,
+        "seasonal_rainfall_mm": 58.96,
+        "seasonal_rainfall_std": 46.85,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 28.37,
+        "humidity": 54.31,
+        "seasonal_rainfall_mm": 658.01,
+        "seasonal_rainfall_std": 235.64,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.51,
+        "humidity": 79.78,
+        "seasonal_rainfall_mm": 456.67,
+        "seasonal_rainfall_std": 153.83,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.29,
+        "humidity": 54.41,
+        "seasonal_rainfall_mm": 20.47,
+        "seasonal_rainfall_std": 16.69,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 24.86,
+        "humidity": 66.25,
+        "seasonal_rainfall_mm": 2047.99,
+        "seasonal_rainfall_std": 570.85,
+        "n_years": 20
+      }
+    }
+  },
+  "Jhargram": {
+    "district": "Jhargram",
+    "clean_name": "Jhargram",
+    "coordinates": {
+      "lat": 22.455,
+      "lon": 86.98
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.49,
+      "annual_humidity": 71.41,
+      "annual_rainfall_mm": 1500.0,
+      "annual_rainfall_std": 228.87,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 27.87,
+        "humidity": 83.54,
+        "seasonal_rainfall_mm": 1234.93,
+        "seasonal_rainfall_std": 222.93,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.55,
+        "humidity": 65.93,
+        "seasonal_rainfall_mm": 85.9,
+        "seasonal_rainfall_std": 44.64,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.2,
+        "humidity": 59.17,
+        "seasonal_rainfall_mm": 434.21,
+        "seasonal_rainfall_std": 127.81,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.57,
+        "humidity": 82.56,
+        "seasonal_rainfall_mm": 399.4,
+        "seasonal_rainfall_std": 123.37,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.36,
+        "humidity": 66.57,
+        "seasonal_rainfall_mm": 43.21,
+        "seasonal_rainfall_std": 29.1,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.49,
+        "humidity": 71.41,
+        "seasonal_rainfall_mm": 1500.0,
+        "seasonal_rainfall_std": 228.87,
+        "n_years": 20
+      }
+    }
+  },
+  "Kalimpong": {
+    "district": "Kalimpong",
+    "clean_name": "Kalimpong",
+    "coordinates": {
+      "lat": 27.0667,
+      "lon": 88.4667
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 18.75,
+      "annual_humidity": 69.25,
+      "annual_rainfall_mm": 1705.29,
+      "annual_rainfall_std": 515.94,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 22.08,
+        "humidity": 86.03,
+        "seasonal_rainfall_mm": 1400.95,
+        "seasonal_rainfall_std": 403.39,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 14.24,
+        "humidity": 56.54,
+        "seasonal_rainfall_mm": 60.28,
+        "seasonal_rainfall_std": 43.06,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 21.1,
+        "humidity": 60.77,
+        "seasonal_rainfall_mm": 547.66,
+        "seasonal_rainfall_std": 215.72,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 18.99,
+        "humidity": 80.63,
+        "seasonal_rainfall_mm": 350.57,
+        "seasonal_rainfall_std": 120.25,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 12.57,
+        "humidity": 55.63,
+        "seasonal_rainfall_mm": 21.7,
+        "seasonal_rainfall_std": 18.06,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 18.75,
+        "humidity": 69.25,
+        "seasonal_rainfall_mm": 1705.29,
+        "seasonal_rainfall_std": 515.94,
+        "n_years": 20
+      }
+    }
+  },
+  "Kolkata": {
+    "district": "Kolkata",
+    "clean_name": "Kolkata",
+    "coordinates": {
+      "lat": 22.5726,
+      "lon": 88.3639
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.8,
+      "annual_humidity": 73.84,
+      "annual_rainfall_mm": 1565.36,
+      "annual_rainfall_std": 203.12,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.11,
+        "humidity": 85.87,
+        "seasonal_rainfall_mm": 1276.33,
+        "seasonal_rainfall_std": 205.87,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 21.27,
+        "humidity": 65.88,
+        "seasonal_rainfall_mm": 94.9,
+        "seasonal_rainfall_std": 64.9,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.0,
+        "humidity": 65.68,
+        "seasonal_rainfall_mm": 455.3,
+        "seasonal_rainfall_std": 117.37,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.2,
+        "humidity": 83.64,
+        "seasonal_rainfall_mm": 426.88,
+        "seasonal_rainfall_std": 122.04,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 19.03,
+        "humidity": 65.48,
+        "seasonal_rainfall_mm": 41.94,
+        "seasonal_rainfall_std": 34.94,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.8,
+        "humidity": 73.84,
+        "seasonal_rainfall_mm": 1565.36,
+        "seasonal_rainfall_std": 203.12,
+        "n_years": 20
+      }
+    }
+  },
+  "Malda": {
+    "district": "Malda",
+    "clean_name": "Malda",
+    "coordinates": {
+      "lat": 25.0108,
+      "lon": 88.1411
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.68,
+      "annual_humidity": 66.45,
+      "annual_rainfall_mm": 1317.11,
+      "annual_rainfall_std": 189.69,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.55,
+        "humidity": 82.33,
+        "seasonal_rainfall_mm": 1064.41,
+        "seasonal_rainfall_std": 168.72,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.46,
+        "humidity": 57.26,
+        "seasonal_rainfall_mm": 45.89,
+        "seasonal_rainfall_std": 20.23,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.2,
+        "humidity": 52.2,
+        "seasonal_rainfall_mm": 435.05,
+        "seasonal_rainfall_std": 104.03,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.96,
+        "humidity": 81.24,
+        "seasonal_rainfall_mm": 350.23,
+        "seasonal_rainfall_std": 97.61,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.13,
+        "humidity": 57.95,
+        "seasonal_rainfall_mm": 19.84,
+        "seasonal_rainfall_std": 10.23,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.68,
+        "humidity": 66.45,
+        "seasonal_rainfall_mm": 1317.11,
+        "seasonal_rainfall_std": 189.69,
+        "n_years": 20
+      }
+    }
+  },
+  "Murshidabad": {
+    "district": "Murshidabad",
+    "clean_name": "Murshidabad",
+    "coordinates": {
+      "lat": 24.0988,
+      "lon": 88.2679
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.88,
+      "annual_humidity": 67.52,
+      "annual_rainfall_mm": 1285.45,
+      "annual_rainfall_std": 177.73,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.4,
+        "humidity": 83.32,
+        "seasonal_rainfall_mm": 1029.05,
+        "seasonal_rainfall_std": 164.37,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.92,
+        "humidity": 57.95,
+        "seasonal_rainfall_mm": 61.45,
+        "seasonal_rainfall_std": 28.46,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.5,
+        "humidity": 54.38,
+        "seasonal_rainfall_mm": 420.57,
+        "seasonal_rainfall_std": 110.62,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.04,
+        "humidity": 81.87,
+        "seasonal_rainfall_mm": 334.41,
+        "seasonal_rainfall_std": 81.0,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.65,
+        "humidity": 58.07,
+        "seasonal_rainfall_mm": 27.2,
+        "seasonal_rainfall_std": 17.47,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.88,
+        "humidity": 67.52,
+        "seasonal_rainfall_mm": 1285.45,
+        "seasonal_rainfall_std": 177.73,
+        "n_years": 20
+      }
+    }
+  },
+  "Nadia": {
+    "district": "Nadia",
+    "clean_name": "Nadia",
+    "coordinates": {
+      "lat": 23.4013,
+      "lon": 88.4962
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.85,
+      "annual_humidity": 70.48,
+      "annual_rainfall_mm": 1469.74,
+      "annual_rainfall_std": 341.68,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.11,
+        "humidity": 85.64,
+        "seasonal_rainfall_mm": 1157.88,
+        "seasonal_rainfall_std": 259.78,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 21.31,
+        "humidity": 60.13,
+        "seasonal_rainfall_mm": 83.62,
+        "seasonal_rainfall_std": 47.99,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.13,
+        "humidity": 60.07,
+        "seasonal_rainfall_mm": 490.46,
+        "seasonal_rainfall_std": 158.43,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.2,
+        "humidity": 82.93,
+        "seasonal_rainfall_mm": 369.69,
+        "seasonal_rainfall_std": 112.77,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 19.05,
+        "humidity": 60.08,
+        "seasonal_rainfall_mm": 36.22,
+        "seasonal_rainfall_std": 27.34,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.85,
+        "humidity": 70.48,
+        "seasonal_rainfall_mm": 1469.74,
+        "seasonal_rainfall_std": 341.68,
+        "n_years": 20
+      }
+    }
+  },
+  "North 24 Parganas": {
+    "district": "North 24 Parganas",
+    "clean_name": "North 24 Parganas",
+    "coordinates": {
+      "lat": 22.723,
+      "lon": 88.48
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.93,
+      "annual_humidity": 73.4,
+      "annual_rainfall_mm": 1717.85,
+      "annual_rainfall_std": 378.28,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.0,
+        "humidity": 86.93,
+        "seasonal_rainfall_mm": 1395.52,
+        "seasonal_rainfall_std": 313.81,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 21.84,
+        "humidity": 62.96,
+        "seasonal_rainfall_mm": 107.19,
+        "seasonal_rainfall_std": 90.91,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 29.82,
+        "humidity": 66.83,
+        "seasonal_rainfall_mm": 504.45,
+        "seasonal_rainfall_std": 144.67,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.36,
+        "humidity": 83.63,
+        "seasonal_rainfall_mm": 460.31,
+        "seasonal_rainfall_std": 147.97,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 19.72,
+        "humidity": 61.54,
+        "seasonal_rainfall_mm": 44.81,
+        "seasonal_rainfall_std": 39.59,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.93,
+        "humidity": 73.4,
+        "seasonal_rainfall_mm": 1717.85,
+        "seasonal_rainfall_std": 378.28,
+        "n_years": 20
+      }
+    }
+  },
+  "Paschim Medinipur (West Medinipur)": {
+    "district": "Paschim Medinipur (West Medinipur)",
+    "clean_name": "Paschim Medinipur (West Medinipur)",
+    "coordinates": {
+      "lat": 22.4257,
+      "lon": 87.3199
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.5,
+      "annual_humidity": 74.15,
+      "annual_rainfall_mm": 1515.74,
+      "annual_rainfall_std": 204.71,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.07,
+        "humidity": 84.81,
+        "seasonal_rainfall_mm": 1237.5,
+        "seasonal_rainfall_std": 209.3,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 20.56,
+        "humidity": 68.57,
+        "seasonal_rainfall_mm": 86.67,
+        "seasonal_rainfall_std": 47.44,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 29.87,
+        "humidity": 64.69,
+        "seasonal_rainfall_mm": 443.23,
+        "seasonal_rainfall_std": 112.98,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.92,
+        "humidity": 83.48,
+        "seasonal_rainfall_mm": 417.31,
+        "seasonal_rainfall_std": 121.56,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 18.31,
+        "humidity": 68.83,
+        "seasonal_rainfall_mm": 40.32,
+        "seasonal_rainfall_std": 29.33,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.5,
+        "humidity": 74.15,
+        "seasonal_rainfall_mm": 1515.74,
+        "seasonal_rainfall_std": 204.71,
+        "n_years": 20
+      }
+    }
+  },
+  "Purba Medinipur (East Medinipur)": {
+    "district": "Purba Medinipur (East Medinipur)",
+    "clean_name": "Purba Medinipur (East Medinipur)",
+    "coordinates": {
+      "lat": 22.2988,
+      "lon": 87.9254
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.8,
+      "annual_humidity": 73.84,
+      "annual_rainfall_mm": 1565.36,
+      "annual_rainfall_std": 203.12,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.11,
+        "humidity": 85.87,
+        "seasonal_rainfall_mm": 1276.33,
+        "seasonal_rainfall_std": 205.87,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 21.27,
+        "humidity": 65.88,
+        "seasonal_rainfall_mm": 94.9,
+        "seasonal_rainfall_std": 64.9,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.0,
+        "humidity": 65.68,
+        "seasonal_rainfall_mm": 455.3,
+        "seasonal_rainfall_std": 117.37,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 25.2,
+        "humidity": 83.64,
+        "seasonal_rainfall_mm": 426.88,
+        "seasonal_rainfall_std": 122.04,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 19.03,
+        "humidity": 65.48,
+        "seasonal_rainfall_mm": 41.94,
+        "seasonal_rainfall_std": 34.94,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.8,
+        "humidity": 73.84,
+        "seasonal_rainfall_mm": 1565.36,
+        "seasonal_rainfall_std": 203.12,
+        "n_years": 20
+      }
+    }
+  },
+  "Purulia": {
+    "district": "Purulia",
+    "clean_name": "Purulia",
+    "coordinates": {
+      "lat": 23.3322,
+      "lon": 86.3652
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 24.92,
+      "annual_humidity": 65.56,
+      "annual_rainfall_mm": 1392.08,
+      "annual_rainfall_std": 247.91,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 27.45,
+        "humidity": 81.25,
+        "seasonal_rainfall_mm": 1200.84,
+        "seasonal_rainfall_std": 237.4,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 19.62,
+        "humidity": 58.99,
+        "seasonal_rainfall_mm": 63.26,
+        "seasonal_rainfall_std": 32.03,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 30.11,
+        "humidity": 48.1,
+        "seasonal_rainfall_mm": 368.24,
+        "seasonal_rainfall_std": 132.86,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 23.68,
+        "humidity": 80.5,
+        "seasonal_rainfall_mm": 331.37,
+        "seasonal_rainfall_std": 106.58,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 17.42,
+        "humidity": 60.38,
+        "seasonal_rainfall_mm": 35.14,
+        "seasonal_rainfall_std": 22.87,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 24.92,
+        "humidity": 65.56,
+        "seasonal_rainfall_mm": 1392.08,
+        "seasonal_rainfall_std": 247.91,
+        "n_years": 20
+      }
+    }
+  },
+  "Siliguri": {
+    "district": "Siliguri",
+    "clean_name": "Siliguri",
+    "coordinates": {
+      "lat": 26.7271,
+      "lon": 88.3953
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 24.22,
+      "annual_humidity": 64.75,
+      "annual_rainfall_mm": 1774.29,
+      "annual_rainfall_std": 416.33,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 26.97,
+        "humidity": 83.45,
+        "seasonal_rainfall_mm": 1486.85,
+        "seasonal_rainfall_std": 341.17,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 19.62,
+        "humidity": 52.05,
+        "seasonal_rainfall_mm": 54.61,
+        "seasonal_rainfall_std": 53.29,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 27.88,
+        "humidity": 52.13,
+        "seasonal_rainfall_mm": 539.83,
+        "seasonal_rainfall_std": 162.86,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 23.75,
+        "humidity": 79.02,
+        "seasonal_rainfall_mm": 388.38,
+        "seasonal_rainfall_std": 126.74,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 17.59,
+        "humidity": 52.05,
+        "seasonal_rainfall_mm": 19.65,
+        "seasonal_rainfall_std": 17.7,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 24.22,
+        "humidity": 64.75,
+        "seasonal_rainfall_mm": 1774.29,
+        "seasonal_rainfall_std": 416.33,
+        "n_years": 20
+      }
+    }
+  },
+  "South 24 Parganas": {
+    "district": "South 24 Parganas",
+    "clean_name": "South 24 Parganas",
+    "coordinates": {
+      "lat": 22.1352,
+      "lon": 88.5448
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 26.24,
+      "annual_humidity": 74.94,
+      "annual_rainfall_mm": 1831.93,
+      "annual_rainfall_std": 440.93,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.26,
+        "humidity": 85.9,
+        "seasonal_rainfall_mm": 1507.56,
+        "seasonal_rainfall_std": 360.54,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 22.66,
+        "humidity": 65.28,
+        "seasonal_rainfall_mm": 114.34,
+        "seasonal_rainfall_std": 107.68,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 29.37,
+        "humidity": 71.91,
+        "seasonal_rainfall_mm": 513.56,
+        "seasonal_rainfall_std": 148.0,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 26.14,
+        "humidity": 81.05,
+        "seasonal_rainfall_mm": 504.97,
+        "seasonal_rainfall_std": 173.43,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 20.69,
+        "humidity": 63.98,
+        "seasonal_rainfall_mm": 46.31,
+        "seasonal_rainfall_std": 43.05,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 26.24,
+        "humidity": 74.94,
+        "seasonal_rainfall_mm": 1831.93,
+        "seasonal_rainfall_std": 440.93,
+        "n_years": 20
+      }
+    }
+  },
+  "Uttar Dinajpur (North Dinajpur)": {
+    "district": "Uttar Dinajpur (North Dinajpur)",
+    "clean_name": "Uttar Dinajpur (North Dinajpur)",
+    "coordinates": {
+      "lat": 25.62,
+      "lon": 88.12
+    },
+    "source": "NASA POWER AG (2001-2020 monthly climatology)",
+    "annual": {
+      "annual_temperature": 25.29,
+      "annual_humidity": 67.27,
+      "annual_rainfall_mm": 1476.09,
+      "annual_rainfall_std": 251.29,
+      "n_years": 20
+    },
+    "seasons": {
+      "Kharif": {
+        "temperature": 28.35,
+        "humidity": 83.15,
+        "seasonal_rainfall_mm": 1209.75,
+        "seasonal_rainfall_std": 212.87,
+        "n_years": 20
+      },
+      "Rabi": {
+        "temperature": 19.92,
+        "humidity": 58.46,
+        "seasonal_rainfall_mm": 44.78,
+        "seasonal_rainfall_std": 26.27,
+        "n_years": 20
+      },
+      "Summer": {
+        "temperature": 29.76,
+        "humidity": 52.33,
+        "seasonal_rainfall_mm": 479.22,
+        "seasonal_rainfall_std": 122.5,
+        "n_years": 20
+      },
+      "Autumn": {
+        "temperature": 24.61,
+        "humidity": 82.42,
+        "seasonal_rainfall_mm": 372.29,
+        "seasonal_rainfall_std": 108.03,
+        "n_years": 20
+      },
+      "Winter": {
+        "temperature": 17.59,
+        "humidity": 59.34,
+        "seasonal_rainfall_mm": 18.15,
+        "seasonal_rainfall_std": 10.95,
+        "n_years": 20
+      },
+      "Whole Year": {
+        "temperature": 25.29,
+        "humidity": 67.27,
+        "seasonal_rainfall_mm": 1476.09,
+        "seasonal_rainfall_std": 251.29,
+        "n_years": 20
+      }
+    }
+  }
+}
